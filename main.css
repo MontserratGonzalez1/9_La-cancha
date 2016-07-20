@@ -1,0 +1,63 @@
+.cancha{
+	background-color: #2DF0A8;
+	width:600px;
+	height:300px;
+	position: static;
+}
+
+.banda {
+	width:550px;
+	height:250px;
+	position: relative;
+	right: 20px;
+	left: 20px;
+	top: 20px;
+	border-color: white;
+	border-style: solid;
+}
+.porteria{
+	border-color: white;
+	border-style: solid;
+	width:50px;
+	height:100px;
+}
+
+.der{
+	position: relative;
+	bottom: 155px;
+	left: 20px;
+}
+
+.izq{
+	position: relative;
+	bottom: 265px;
+	left: 520px;
+}
+
+.circulo{
+	border-color: white;
+	border-style: solid;
+	border-radius: 100%; 
+	width: 100px;
+	height: 100px;
+	position: absolute;
+  	left: 250px;
+  	top: 100px;
+}
+
+.pelota1{
+	position: absolute;
+	top: 50px;
+	left: 300px;
+}
+
+.pelota2 {
+	position: absolute;
+	top: 120px;
+	left: 65px;
+}
+.pelota3 {
+	position: absolute;
+	top: 180px;
+	left: 500px;
+}
